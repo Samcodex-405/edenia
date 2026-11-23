@@ -1,10 +1,8 @@
 # 🌿 Edenia
 
-**Feel at home in your life.**
-
 Edenia is a private, gentle space to plan, track habits, take notes and reflect, all in one place. There are no rigid hourly schedules and no guilt for missed days. It is meant to feel like stepping into your own garden: calm, unhurried and yours.
 
-> *Welcome back. Your garden waited for you.*
+> *Feel at home in your life.*
 
 ## Why Edenia?
 
